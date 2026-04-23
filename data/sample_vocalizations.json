@@ -188,5 +188,24 @@
     "observed_outcome": "no_clear_outcome",
     "labeler_confidence": "low",
     "note": "mostly handling noise and weak audio"
+  },
+  {
+    "recording_id": "rec_2026_04_23_150610",
+    "cat_id": "momo",
+    "created_at": "2026-04-23T15:06:10-07:00",
+    "recording_uri": "local://recordings/rec_2026_04_23_150610.m4a",
+    "duration_ms": 0,
+    "clip_quality": "clean",
+    "time_bucket": "afternoon",
+    "meal_context": "no_food_context",
+    "owner_context": "owner_near",
+    "environment_trigger": "quiet",
+    "activity_context": "resting",
+    "location_context": "unknown",
+    "primary_tendency": "unknown",
+    "secondary_tendency": null,
+    "observed_outcome": "no_clear_outcome",
+    "labeler_confidence": "low",
+    "note": "template test entry"
   }
 ]
