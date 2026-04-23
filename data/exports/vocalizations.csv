@@ -1,0 +1,2 @@
+recording_id,cat_id,created_at,recording_uri,duration_ms,clip_quality,time_bucket,meal_context,owner_context,environment_trigger,activity_context,location_context,primary_tendency,secondary_tendency,observed_outcome,labeler_confidence,note
+rec_test_001,momo,2026-04-22T07:12:18-07:00,local://recordings/rec_test_001.m4a,1700,clean,morning,before_meal_window,owner_near,quiet,resting,kitchen,food_like,attention_like,got_food,high,test insert via add_log.py

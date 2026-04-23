@@ -1,0 +1,4 @@
+recording_id,created_at,labeled_tendency,inferred_tendency,analysis_confidence,clip_quality,time_bucket,meal_context,owner_context,environment_trigger,activity_context,location_context,top_reasons,note,disagreement_type,review_priority
+rec_2026_04_22_010,2026-04-23T13:17:26-07:00,unknown,unknown,low,unusable,afternoon,no_food_context,owner_near,quiet,during_pet_or_brush,sofa,clip unusable,mostly handling noise and weak audio,unknown_unusable,medium
+rec_2026_04_22_009,2026-04-23T06:11:52-07:00,unknown,unknown,low,noisy,early_morning,no_food_context,owner_left_room,other,resting,unknown,short clip duration; unusual trigger; owner left room; clip too short to read,very short clip with unclear source,unknown_noisy,medium
+rec_2026_04_22_007,2026-04-22T19:04:44-07:00,unsettled,unsettled,low,noisy,evening,no_food_context,owner_near,after_noise,resting,bed,after loud noise; on the bed,vocalized after loud hallway noise,fragile_match,low

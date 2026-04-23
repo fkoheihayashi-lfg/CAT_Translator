@@ -1,0 +1,44 @@
+{
+  "manifest_version": 1,
+  "notes": "Template only. Keep external reference items separate from operational logging and do not import them into vocalizations.db by default.",
+  "items": [
+    {
+      "source_id": "adult_ref_001",
+      "title": "Example adult domestic cat meal-context clip",
+      "source_type": "licensed_audio_clip",
+      "source_url": "https://example.org/audio/adult_ref_001",
+      "local_path": "reference_corpus/audio/adult_domestic/adult_ref_001.wav",
+      "license_status": "clear_reuse",
+      "provenance_confidence": "high",
+      "age_group": "adult",
+      "interaction_type": "adult_domestic",
+      "context_certainty": "medium",
+      "audio_reuse_ok": true,
+      "phase1_relevance": "high",
+      "reference_role": "heuristic_eval_candidate",
+      "candidate_tendency": "food_like",
+      "decision": "eval_ready",
+      "verification_status": "example",
+      "notes": "Template example only. Keep external reference items separate from operational logging."
+    },
+    {
+      "source_id": "adult_ref_verified_example_002",
+      "title": "Example-only verified-shape adult domestic clip",
+      "source_type": "licensed_audio_clip",
+      "source_url": "https://example.org/audio/adult_ref_verified_example_002",
+      "local_path": "reference_corpus/audio/adult_domestic/adult_ref_verified_example_002.wav",
+      "license_status": "clear_reuse",
+      "provenance_confidence": "high",
+      "age_group": "adult",
+      "interaction_type": "adult_domestic",
+      "context_certainty": "high",
+      "audio_reuse_ok": true,
+      "phase1_relevance": "high",
+      "reference_role": "heuristic_eval_candidate",
+      "candidate_tendency": "curious",
+      "decision": "eval_ready",
+      "verification_status": "verified",
+      "notes": "Template example only. This shows the shape of a fully verified eval-ready adult domestic entry, not a real verified source."
+    }
+  ]
+}
